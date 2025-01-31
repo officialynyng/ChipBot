@@ -27,6 +27,7 @@ Bot Not Responding?
 Ensure the bot is in the correct Discord channel.
 
 
+Powered by: OpenAI API, Python, and Discord.py
 
 Credits
 
@@ -40,4 +41,3 @@ Credits
                                                
                                                                                                                
 Developer: ynyng - ynyng LLC - ynyng@ynyng.org
-Powered by: OpenAI API, Python, and Discord.py
