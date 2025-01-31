@@ -38,13 +38,6 @@ Credits
    ██║   ██║ ╚████║   ██║   ██║ ╚████║╚██████╔╝
    ╚═╝   ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝ 
                                                
-
- 
-                                                                   
-                                                                   
-
-
-                                               
                                                                                                                
 Developer: ynyng - ynyng LLC - ynyng@ynyng.org
 Powered by: OpenAI API, Python, and Discord.py
