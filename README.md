@@ -13,7 +13,7 @@ YouTube Link Detection: Recognizes YouTube links (future feature).
 🤖 How It Works
 
 Mention @Chip or type "chip.activate"` to trigger a response.
-Chip will randomly reply (10% chance) even when unprompted.
+Chip will randomly reply (5% chance) even when unprompted.
 If OpenAI API limits are hit, the bot retries with exponential backoff.
 Remembers recent user messages for better engagement.
 
