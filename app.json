@@ -1,0 +1,17 @@
+{
+  "name": "ynyngdiscordchip",
+  "description": "Discord bot for ynyng",
+  "repository": "https://github.com/officialynyng/Chip", 
+  "keywords": ["discord", "bot", "python"],
+  "env": {
+    "DISCORD_BOT_TOKEN": {
+      "required": true
+    },
+    "HUGGING_FACE_API_KEY": {
+      "required": true
+    },
+    "YOUTUBE_API_KEY": {
+      "required": true
+    }
+  }
+}
