@@ -1,6 +1,8 @@
 Chip - Discord AI Bot - Configured for Heroku
 
-A sarcastic, witty AI bot that remembers user interactions, engages in natural conversations, and provides dynamic responses. 🚀 Features
+A sarcastic, witty AI bot that remembers user interactions, engages in natural conversations, and provides dynamic responses. 
+
+Features
 
 Conversational Memory: Remembers the last 10 messages per user for better replies.
 Adaptive Responses: Adjusts tone based on message history and user activity.
