@@ -96,7 +96,7 @@ async def on_message(message):
     msg_content = message.content.lower()
     
     # Reduce API calls by responding only when necessary
-    if client.user.mentioned_in(message) or "chip.activate" in msg_content or random.random() < 0.10:
+    if client.user.mentioned_in(message) or "chip.activate" in msg_content or random.random() < 0.05:
         response = await get_ai_response(msg_content, user_info)
         await message.channel.send(response)
         last_response_time = time.time()
