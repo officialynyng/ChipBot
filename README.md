@@ -1,4 +1,5 @@
-```💾👺 ChipBot - Discord AI Bot 👺💾
+```
+💾👺 ChipBot - Discord AI Bot 👺💾
 
 📌 Overview
 
