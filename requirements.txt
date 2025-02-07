@@ -1,4 +1,6 @@
 aiohttp==3.7.4
 discord.py[voice]==2.0.1
 requests==2.26.0 
+python-dotenv==0.19.2
 openai==1.60.2
+PyPDF2
